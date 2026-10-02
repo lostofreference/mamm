@@ -1,0 +1,15 @@
+2026/10/02-22:55:26.941 58a90c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_app.talkjs.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/02-22:55:26.942 58a90c Recovering log #4
+2026/10/02-22:55:26.980 58a90c Level-0 table #7: started
+2026/10/02-22:55:26.997 58a90c Level-0 table #7: 1173405 bytes OK
+2026/10/02-22:55:26.998 58a90c Delete type=0 #4
+2026/10/02-22:55:27.005 58a90f Level-0 table #10: started
+2026/10/02-22:55:27.005 58a90f Level-0 table #10: 541 bytes OK
+2026/10/02-22:55:27.006 58a90f Delete type=0 #8
+2026/10/02-22:55:27.006 58a90c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x02!\x01\x04\xd8>\xde\xf8\xd8<\xdf\xff\x00\x01\x02\xd8>\xde\xf8' @ 5623 : 1
+2026/10/02-22:55:27.006 58a90c Compacting 2@0 + 0@1 files
+2026/10/02-22:55:27.024 58a90c Generated table #11@0: 41048 keys, 754009 bytes
+2026/10/02-22:55:27.024 58a90c Compacted 2@0 + 0@1 files => 754009 bytes
+2026/10/02-22:55:27.025 58a90c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/02-22:55:27.025 58a90c Delete type=2 #10
+2026/10/02-22:55:27.026 58a90c Manual compaction at level-0 from '\x00\x02\x02!\x01\x04\xd8>\xde\xf8\xd8<\xdf\xff\x00\x01\x02\xd8>\xde\xf8' @ 5623 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

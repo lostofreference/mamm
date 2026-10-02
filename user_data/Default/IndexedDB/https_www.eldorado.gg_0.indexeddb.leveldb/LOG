@@ -1,0 +1,27 @@
+2026/10/02-22:55:30.073 58a90c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/02-22:55:30.074 58a90c Recovering log #32
+2026/10/02-22:55:30.074 58a90c Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/000032.log 
+2026/10/02-22:55:30.074 58a90c Delete type=2 #31
+2026/10/02-22:55:30.307 58a90c Level-0 table #37: started
+2026/10/02-22:55:30.308 58a90c Level-0 table #37: 3025 bytes OK
+2026/10/02-22:55:30.310 58a90c Delete type=0 #32
+2026/10/02-22:55:30.310 58a90c Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 1186 : 1
+2026/10/02-22:55:30.310 58a90c Compacting 1@0 + 1@1 files
+2026/10/02-22:55:30.311 58a90c Generated table #38@0: 455 keys, 6360 bytes
+2026/10/02-22:55:30.312 58a90c Compacted 1@0 + 1@1 files => 6360 bytes
+2026/10/02-22:55:30.313 58a90c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/02-22:55:30.313 58a90c Delete type=2 #37
+2026/10/02-22:55:30.313 58a90c Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 1186 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/02-22:55:30.327 58a90f Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/02-22:55:32.998 58a90f Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/02-22:55:33.006 58a90c Level-0 table #40: started
+2026/10/02-22:55:33.007 58a90c Level-0 table #40: 3725 bytes OK
+2026/10/02-22:55:33.008 58a90c Delete type=2 #34
+2026/10/02-22:55:33.008 58a90c Delete type=0 #36
+2026/10/02-22:55:33.008 58a90c Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 1304 : 1
+2026/10/02-22:55:33.008 58a90c Compacting 1@0 + 1@1 files
+2026/10/02-22:55:33.010 58a90c Generated table #41@0: 464 keys, 6429 bytes
+2026/10/02-22:55:33.010 58a90c Compacted 1@0 + 1@1 files => 6429 bytes
+2026/10/02-22:55:33.011 58a90c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/02-22:55:33.011 58a90c Delete type=2 #40
+2026/10/02-22:55:33.011 58a90c Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 1304 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)

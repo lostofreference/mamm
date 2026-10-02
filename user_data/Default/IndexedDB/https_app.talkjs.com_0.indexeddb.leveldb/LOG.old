@@ -1,0 +1,6 @@
+2026/10/02-22:55:14.548 58a90c Creating DB /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_app.talkjs.com_0.indexeddb.leveldb since it was missing.
+2026/10/02-22:55:14.550 58a90c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_app.talkjs.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/02-22:55:14.553 58a90f Level-0 table #5: started
+2026/10/02-22:55:14.554 58a90f Level-0 table #5: 565 bytes OK
+2026/10/02-22:55:14.555 58a90f Delete type=0 #3
+2026/10/02-22:55:14.555 58a90c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
