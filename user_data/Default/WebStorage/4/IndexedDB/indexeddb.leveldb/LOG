@@ -1,0 +1,7 @@
+2026/10/04-16:14:26.803 5c0812 Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/10/04-16:14:26.804 5c0812 Recovering log #4
+2026/10/04-16:14:26.804 5c0812 Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000004.log 
+2026/10/04-16:14:26.830 5c080c Level-0 table #8: started
+2026/10/04-16:14:26.831 5c080c Level-0 table #8: 2978 bytes OK
+2026/10/04-16:14:26.832 5c080c Delete type=0 #4
+2026/10/04-16:14:26.832 5c080c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,2 +1,3 @@
-2026/10/02-11:41:03.430 54b4e6 Creating DB /Users/stepan/Desktop/newauto/user_data/Default/GCM Store since it was missing.
-2026/10/02-11:41:03.444 54b4e6 Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/GCM Store/MANIFEST-000001
+2026/10/02-22:54:49.978 58a910 Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/GCM Store/MANIFEST-000001
+2026/10/02-22:54:49.981 58a910 Recovering log #3
+2026/10/02-22:54:50.007 58a910 Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/GCM Store/000003.log 

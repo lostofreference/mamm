@@ -1,2 +1,3 @@
-2026/10/02-11:41:01.593 54b4f7 Creating DB /Users/stepan/Desktop/newauto/user_data/Default/Extension State since it was missing.
-2026/10/02-11:41:01.599 54b4f7 Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/Extension State/MANIFEST-000001
+2026/10/02-22:54:47.634 58a90c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/Extension State/MANIFEST-000001
+2026/10/02-22:54:47.636 58a90c Recovering log #3
+2026/10/02-22:54:47.637 58a90c Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/Extension State/000003.log 

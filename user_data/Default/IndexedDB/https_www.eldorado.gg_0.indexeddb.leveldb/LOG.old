@@ -1,25 +1,3 @@
-2026/10/02-22:55:24.221 58a90c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/MANIFEST-000001
-2026/10/02-22:55:24.222 58a90c Recovering log #25
-2026/10/02-22:55:24.222 58a90c Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/000025.log 
-2026/10/02-22:55:24.222 58a90c Delete type=2 #24
-2026/10/02-22:55:24.453 58a90c Level-0 table #30: started
-2026/10/02-22:55:24.454 58a90c Level-0 table #30: 3017 bytes OK
-2026/10/02-22:55:24.456 58a90c Delete type=0 #25
-2026/10/02-22:55:24.456 58a90c Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 1073 : 1
-2026/10/02-22:55:24.456 58a90c Compacting 1@0 + 1@1 files
-2026/10/02-22:55:24.457 58a90c Generated table #31@0: 449 keys, 6361 bytes
-2026/10/02-22:55:24.457 58a90c Compacted 1@0 + 1@1 files => 6361 bytes
-2026/10/02-22:55:24.458 58a90c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/02-22:55:24.458 58a90c Delete type=2 #30
-2026/10/02-22:55:24.458 58a90c Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 1073 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/10/02-22:55:24.466 58a917 Level-0 table #33: started
-2026/10/02-22:55:24.467 58a917 Level-0 table #33: 493 bytes OK
-2026/10/02-22:55:24.469 58a917 Delete type=0 #29
-2026/10/02-22:55:24.469 58a917 Delete type=2 #27
-2026/10/02-22:55:24.469 58a90c Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 1100 : 0
-2026/10/02-22:55:24.469 58a90c Compacting 1@0 + 1@1 files
-2026/10/02-22:55:24.473 58a90c Generated table #34@0: 451 keys, 6295 bytes
-2026/10/02-22:55:24.473 58a90c Compacted 1@0 + 1@1 files => 6295 bytes
-2026/10/02-22:55:24.475 58a90c compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/10/02-22:55:24.475 58a90c Delete type=2 #33
-2026/10/02-22:55:24.476 58a90c Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 1100 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/10/04-16:14:29.274 5c080c Reusing MANIFEST /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/04-16:14:29.274 5c080c Recovering log #39
+2026/10/04-16:14:29.276 5c080c Reusing old log /Users/stepan/Desktop/newauto/user_data/Default/IndexedDB/https_www.eldorado.gg_0.indexeddb.leveldb/000039.log 
